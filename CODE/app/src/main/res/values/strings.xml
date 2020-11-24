@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CREDIT CARD MANAGER</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ok_string">OK</string>
+
+    <string name="sample_number_string">0000 0000 0000 0000</string>
+    <string name="sample_name_string">Your Name</string>
+    <string name="sample_expire_string">09/99</string>
+    <string name="sample_cvc_string">000</string>
+
+    <string name="add_name_string">Enter Card Name</string>
+    <string name="add_number_string">Enter Card Number</string>
+    <string name="add_expire_string">Expire Date</string>
+    <string name="add_cvc_string">Card Cvc</string>
+
+    <string name="edit_card_title_string">EDIT CARD</string>
+    <string name="add_expense_title_string">ADD TRANSACTION</string>
+    <string name="add_cardnew_title_string">ADD NEW CARD</string>
+    <string name="add_card_title_string">ADD CARD</string>
+    <string name="select_card_string">Select Your Card</string>
+    <string name="select_name_string">Enter Your Expense Name</string>
+    <string name="select_price_string">Enter Your Expense Money</string>
+    <string name="select_date_string">Select Your Expense Date</string>
+    <string name="select_type_hint_string">Select Transaction Type</string>
+    <string name="select_debit_string">EXPENSE FROM CARD</string>
+    <string name="select_credit_string">PAID TO CARD</string>
+    <string name="select_save_string">ADD TRANSACTION</string>
+    <string name="expense_details_title_string">CARD TRANSACTION DETAILS</string>
+    <string name="expense_debit_string">TOTAL EXPENSE FROM CARD</string>
+    <string name="expense_credit_string">TOTAL PAID TO CARD</string>
+
+    <string name="expense_edit_title_string">EDIT YOUR TRANSACTION</string>
+    <string name="available_title_string">Available Balance: </string>
+    <string-array name="months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="add_card_confirmed">Your Card Added</string>
+</resources>

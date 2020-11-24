@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#28AAA8</color>
+    <color name="colorPrimaryDark">#225352</color>
+    <color name="colorAccent">#28AAA8</color>
+
+    <color name="app_green">#28AAA8</color>
+    <color name="app_dark_green">#225352</color>
+    <color name="app_red">#FF3B30</color>
+    <color name="app_dark">#8E8E93</color>
+    <color name="app_white1">#E6E6E6</color>
+    <color name="app_white2">#ffffff</color>
+    <color name="app_black">#000000</color>
+    <color name="app_blue">#0853c4</color>
+
+</resources>
